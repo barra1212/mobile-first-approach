@@ -18,3 +18,8 @@
         margin: 10px;
     }
 }
+#fullheight {
+    clear: both;
+    background-color: purple;
+    height:100vh;
+}
